@@ -1,0 +1,334 @@
+.u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/islamic-book-3738793_1920.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 825px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 4.5rem;
+  width: 909px;
+  margin: 167px auto 0;
+}
+
+.u-section-1-1 .u-text-2 {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  letter-spacing: 4px;
+  width: 239px;
+  margin: 20px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 680px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 521px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 391px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 540px;
+    font-size: 2.25;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 618px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: auto;
+    font-size: 2.25rem;
+    margin-top: 79px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-top: 30px;
+    margin-bottom: 60px;
+  }
+}.u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/religious-2262785_1920.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 825px;
+}
+
+.u-section-1-2 .u-text-1 {
+  font-weight: 700;
+  font-size: 4.5rem;
+  width: 909px;
+  margin: 167px auto 0;
+}
+
+.u-section-1-2 .u-text-2 {
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  letter-spacing: 4px;
+  width: 239px;
+  margin: 20px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 680px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 521px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 391px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 540px;
+    font-size: 2.25;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 246px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 340px;
+    font-size: 2.25rem;
+  }
+}.u-block-12f9-2 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-block-12f9-3 {
+  position: absolute;
+  left: calc(((100% - 1140px) / 2)  + -62px);
+  width: 85px;
+  height: 85px;
+  background-image: none;
+  right: auto;
+}
+
+.u-block-12f9-4 {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+  background-image: none;
+  left: auto;
+  right: calc(((100% - 1140px) / 2)  + -62px);
+}
+
+@media (max-width: 1199px) {
+  .u-block-12f9-3 {
+    left: calc(((100% - 940px) / 2)  + -51px);
+  }
+
+  .u-block-12f9-4 {
+    right: calc(((100% - 940px) / 2)  + -51px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-12f9-3 {
+    left: calc(((100% - 720px) / 2)  + -39px);
+  }
+
+  .u-block-12f9-4 {
+    right: calc(((100% - 720px) / 2)  + -39px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-12f9-3 {
+    left: calc(((100% - 540px) / 2)  + -29px);
+  }
+
+  .u-block-12f9-4 {
+    right: calc(((100% - 540px) / 2)  + -29px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-12f9-3 {
+    left: calc(((100% - 340px) / 2)  + -18px);
+  }
+
+  .u-block-12f9-4 {
+    right: calc(((100% - 340px) / 2)  + -18px);
+  }
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/ramadan-3380068_1920.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 909px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 23px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 826px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 30px 13px;
+}
+
+.u-section-2 .u-text-1 {
+  font-style: normal;
+  font-size: 3rem;
+  margin: 0;
+}
+
+.u-section-2 .u-line-1 {
+  width: 281px;
+  height: 16px;
+  transform-origin: left center;
+  margin: 33px auto 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: linear-gradient(to right, #478ac9, #e68387);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 20px auto 0 0;
+  padding: 9px 22px;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: linear-gradient(to right, #478ac9, #e68387);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 17px auto 0 0;
+  padding: 9px 22px;
+}
+
+.u-section-2 .u-btn-3 {
+  background-image: linear-gradient(to right, #478ac9, #e68387);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 20px auto 0 0;
+  padding: 9px 22px;
+}
+
+.u-section-2 .u-btn-4 {
+  background-image: linear-gradient(to right, #478ac9, #e68387);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 17px auto 0 0;
+  padding: 9px 22px;
+}
+
+.u-section-2 .u-btn-5 {
+  background-image: linear-gradient(to right, #478ac9, #e68387);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 20px auto 0 0;
+  padding: 9px 22px;
+}
+
+.u-section-2 .u-btn-6 {
+  background-image: linear-gradient(to right, #478ac9, #e68387);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 17px auto 0 0;
+  padding: 9px 22px;
+}
+
+.u-section-2 .u-btn-7 {
+  background-image: linear-gradient(to right, #478ac9, #e68387);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 17px auto 0 0;
+  padding: 9px 22px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 649px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 681px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.75rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 272px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 231px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}

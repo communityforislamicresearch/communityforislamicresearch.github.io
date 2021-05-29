@@ -1,6 +1,5 @@
 .u-section-1-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/mohammed-bukar-j_5yh3lPvlo-unsplash.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1-1 .u-sheet-1 {
@@ -42,35 +41,24 @@
 
 @media (max-width: 1199px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 662px;
-  }
-
-  .u-section-1-1 .u-text-1 {
-    margin-top: 60px;
+    min-height: 797px;
   }
 
   .u-section-1-1 .u-text-2 {
-    margin-top: -153px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1-1 .u-icon-1 {
-    margin-top: -81px;
-    margin-right: 373px;
+    margin-right: 374px;
   }
 
   .u-section-1-1 .u-icon-2 {
-    margin-top: 34px;
-    margin-left: 373px;
+    margin-left: 374px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1-1 .u-sheet-1 {
-    min-height: 507px;
-  }
-
   .u-section-1-1 .u-icon-1 {
     margin-right: 286px;
   }
@@ -78,64 +66,274 @@
   .u-section-1-1 .u-icon-2 {
     margin-left: 286px;
   }
+
+  .u-section-1-1 .u-icon-3 {
+    margin-top: 20px;
+    margin-left: 286px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 380px;
+    min-height: 790px;
   }
 
   .u-section-1-1 .u-text-1 {
     font-size: 3.75rem;
   }
 
-  .u-section-1-1 .u-text-2 {
-    margin-top: 46px;
-  }
-
   .u-section-1-1 .u-icon-1 {
-    margin-top: -282px;
     margin-right: 215px;
   }
 
   .u-section-1-1 .u-icon-2 {
     margin-left: 215px;
   }
+
+  .u-section-1-1 .u-icon-3 {
+    margin-left: 215px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 643px;
   }
 
   .u-section-1-1 .u-text-1 {
-    width: 340px;
     font-size: 3rem;
+    width: auto;
+    margin-top: 88px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    width: auto;
+    margin-top: 9px;
   }
 
   .u-section-1-1 .u-icon-1 {
-    margin-right: 135px;
+    margin-top: 208px;
+    margin-right: auto;
   }
 
   .u-section-1-1 .u-icon-2 {
-    margin-bottom: 55px;
+    margin-top: -158px;
+    margin-left: auto;
+  }
+
+  .u-section-1-1 .u-icon-3 {
+    margin-top: -153px;
     margin-left: 135px;
   }
-}.u-block-0645-2 {
+}.u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/mosque-615415_1920.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 803px;
+}
+
+.u-section-1-2 .u-text-1 {
+  margin: 60px 601px 0 0;
+}
+
+.u-section-1-2 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 23px 592px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 662px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-right: 401px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-right: 392px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 507px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-right: 181px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-right: 172px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-right: 1px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-right: 0;
+  }
+}.u-section-1-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/abu-dhabi-4604499_1920.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-3 .u-sheet-1 {
+  min-height: 803px;
+}
+
+.u-section-1-3 .u-text-1 {
+  width: 745px;
+  font-size: 4.5rem;
+  margin: 60px auto 0;
+}
+
+.u-section-1-3 .u-text-2 {
+  width: 837px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 662px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 507px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    width: auto;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    width: auto;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-left: 23px;
+    margin-right: 23px;
+  }
+}.u-block-e903-2 {
   position: absolute;
   bottom: 10px;
   width: auto;
   height: auto;
 }
 
-.u-block-0645-3 {
+.u-block-e903-3 {
   position: absolute;
-  left: 0;
+  left: calc(((100% - 1140px) / 2)  + -55px);
+  width: 85px;
+  height: 85px;
+  background-image: none;
+  right: auto;
 }
 
-.u-block-0645-4 {
+.u-block-e903-4 {
   position: absolute;
-  right: 0;
+  width: 85px;
+  height: 85px;
+  background-image: none;
+  left: auto;
+  right: calc(((100% - 1140px) / 2)  + -60px);
+}
+
+@media (max-width: 1199px) {
+  .u-block-e903-3 {
+    left: calc(((100% - 940px) / 2)  + -45px);
+  }
+
+  .u-block-e903-4 {
+    right: calc(((100% - 940px) / 2)  + -49px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-e903-3 {
+    left: calc(((100% - 720px) / 2)  + -34px);
+  }
+
+  .u-block-e903-4 {
+    right: calc(((100% - 720px) / 2)  + -38px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-e903-3 {
+    left: calc(((100% - 540px) / 2)  + -25px);
+  }
+
+  .u-block-e903-4 {
+    right: calc(((100% - 540px) / 2)  + -28px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-e903-3 {
+    left: calc(((100% - 340px) / 2)  + -16px);
+  }
+
+  .u-block-e903-4 {
+    right: calc(((100% - 340px) / 2)  + -18px);
+  }
 }.u-section-2 {
   background-image: none;
 }
